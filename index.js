@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const { jsPDF } = require("jspdf"); // will automatically load the node version
 
-const youtubeURL = "https://www.youtube.com/watch?v=ipRvjS7q1DI";
+const youtubeURL = "https://youtu.be/HcOc7P5BMi4?feature=shared";
 
 (async () => {
   const captureData = [];
